@@ -9,7 +9,6 @@ Serveur FiveM FA Français 100% sur mesure.
 - [Hysteryx](https://github.com/Hysteryx) (back) 
 - [Ismaël](https://github.com/Sameedevv) (front - back)
 - [AKR_MARWANITO](https://github.com/Marwanito26) (front)
-- [xalsie](https://github.com/xalsie) (front)
 
 **Direction**
 - Lenny
